@@ -41,16 +41,6 @@ The goal of this project is to understand how changes in gasoline prices influen
 
 ---
 
-## Getting Started  
-
-To reproduce this project:
-
-1. Clone the repository  
-2. Install dependencies from `requirements.txt`  
-3. Open and execute the Jupyter notebooks located in the `notebooks/` folder  
-
----
-
 ## Data Sources  
 
 This project uses publicly available datasets from:
